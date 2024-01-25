@@ -27,7 +27,7 @@ theme: gradient
 
 # 画像のテスト
 画像
-![width:700px](img/iStock-927930250.jpg)
+![width:700px center](img/iStock-1777773387.jpg)
 
 ---
 
