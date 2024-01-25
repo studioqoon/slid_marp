@@ -27,7 +27,7 @@ theme: gradient
 
 # 画像のテスト
 画像
-![width:500px](/img/iStock-927930250.jpg)
+![width:700px](/img/iStock-927930250.jpg)
 
 ---
 
@@ -40,8 +40,8 @@ theme: gradient
 
 ---
 
-<video src="img/test_mov.mp4" width="640" height="320" controls></video>
+<video src="img/test_mov.mp4" width="800" height="500" controls></video>
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aXQ2xeLKgYY?si=9OJd4oYo-Y9HA_cH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://www.youtube.com/embed/aXQ2xeLKgYY?si=9OJd4oYo-Y9HA_cH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
