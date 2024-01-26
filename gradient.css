@@ -11,7 +11,7 @@
 
 section {
   background-color: #d7f0fc;
-  background-image: linear-gradient(to top right, #dafcf0 60%, #b9d5d9 20%);
+  background-image: linear-gradient(to top right, #dafcf0 20%, #7fb8c7 80%);
 }
 
 h1,
@@ -20,7 +20,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #333333;
+  color: #1e292b;
 }
 
 a {
@@ -32,7 +32,7 @@ code {
 }
 
 mark {
-  background-color: #eaa2ee;
+  background-color: #f8d4fa;
   padding: 0 2px 2px;
 }
 
